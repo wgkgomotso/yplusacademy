@@ -131,7 +131,7 @@ body {}
     padding: 1px 0px;
 	position: relative;
     z-index: 99999;
-    border-bottom: 2px solid #bfb431;
+    border-bottom: 20px solid #fff;
 }#sidebar .sidebar-header  img{/*width: 158px !important*/ margin: 2px;}
 
 #sidebar .sidebar-header strong {
@@ -1206,8 +1206,8 @@ ul.two-part-sp li{
     top: 0;
     margin: 0 auto;
     transition: all 0.3s;
-    height: 62px;
-    border-bottom: 2px solid #bfb431;
+    height: 60px;
+    /*border-bottom: 2px solid #bfb431;*/
 }
 .jqstooltip {
   width: auto !important;
